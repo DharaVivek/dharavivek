@@ -11,8 +11,8 @@ Hey, I'm Dhara Vivek, a 3rd year computer science student at the Gokaraju Rangar
 
 
 ![dharavivek's Stats](https://github-readme-stats.vercel.app/api?username=dharavivek&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dharavivek&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
+![dharavivek's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dharavivek&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![dharavivek's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharavivek&theme=vue-dark&hide_border=false)
  ## 🖥  Technology 
 
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
