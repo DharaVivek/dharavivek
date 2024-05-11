@@ -9,7 +9,7 @@ Hey, I'm Dhara Vivek, a 3rd year computer science student at the Gokaraju Rangar
 
 ## 🚀 Github Stats
 
-![Vivek's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dharavivek&count_private=true&show_icons=true&theme=radical&bg_color=#FFFFFF)
+![Vivek's GitHub stats](![dharavivek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharavivek&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
  ## 🖥  Technology 
 
