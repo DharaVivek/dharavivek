@@ -16,6 +16,6 @@ Hey, I'm Dhara Vivek, a 3rd year computer science student at the Gokaraju Rangar
 ![](https://github-profile-trophy.vercel.app/?username=dharavivek&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dharavivek&icon=1&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
