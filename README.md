@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Dhara Vivek, a 3rd year computer science student at the Gokaraju Rangaraju Institute of Engineering and Technology 🏛️.
+Hey, I'm Dhara Vivek, computer science graduate from Gokaraju Rangaraju Institute of Engineering and Technology 🏛️.
 
 
 ## 🌐 Socials:
